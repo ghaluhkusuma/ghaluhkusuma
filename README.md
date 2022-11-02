@@ -1,6 +1,7 @@
 👋 Hallo..
 
 My name is Ghaluh Kusuma Ningrum..
+Expert Web Developer..
 
 📊 My Stats
 
